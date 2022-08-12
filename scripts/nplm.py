@@ -7,7 +7,7 @@ sys.path.append('/NEWS/Codes/News-Recommendation')
 
 import torch
 from utils.utils import  prepare, load_hparams
-from models.NPLM3 import NPLMModel
+from models.NPLM33 import NPLMModel  #33-36
 import random
 import numpy as np
 
